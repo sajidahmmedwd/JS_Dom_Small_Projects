@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    background: #000;
+    color: aqua;
+}
+
+.container{
+   width: 100%;
+   margin: 0 auto; 
+   text-align: center;
+}
+
+.timer{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.btn{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
